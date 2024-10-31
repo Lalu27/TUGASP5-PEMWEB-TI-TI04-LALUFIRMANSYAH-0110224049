@@ -1,0 +1,70 @@
+#header{
+    background-color: moccasin;
+    padding-bottom: 2px;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+.bl{
+    background-color: yellow;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}
+.aa{
+    padding: 0 5px;
+}
+.gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    img{
+        width: 35%;
+    }
+}
+.b{
+    font-size: 3rem;
+    color: blue;
+}
+.isi{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+#profil{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+
+}
+#beternak{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+.koleksi{
+    display: flex;
+    justify-content: space-between;
+    img{
+        width: 20%;
+        background-color: black;
+        padding: 5px;
+      
+    }
+}
+.promo{
+    text-align: center;
+    color: red;
+}
+.toko{
+    display: flex;
+    justify-content: center;
+}
+.toko1{
+    list-style-type: none;
+    padding: 0 50px;
+    border: 2px solid black;
+}
+#Wa{
+    color: blue;
+}
